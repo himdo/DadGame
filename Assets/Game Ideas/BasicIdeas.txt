@@ -1,0 +1,21 @@
+Dads Game
+Session 1: 10/8/21, target date: 11/1/21
+=================================
+Theme: western
+
+General Store
+Chruch
+Saloon
+Barn
+
+crew / team (start with 5 people)
+health (body part (2 legs, 2 arms. 1 head, 1 torso)), hunger
+money (collective pool)
+skills (shooting, healer, miner)
+inventory (walk to item then teleport to wagon (wagon has set limit (Bulk based)))
+
+https://images.ctfassets.net/u0haasspfa6q/22xnB32rr5g9RY3JSfEuyG/890b8a3d0c3d011fa71079d89b930bb1/Oregon-Trail-07-module-diagram?w=640&fm=webp&q=90
+====================================
+
+
+
